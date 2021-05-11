@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-	<img src="https://github.com/PumaDev310/PumaDev310/raw/main/main.gif" alt="Growing up!!!">
+	<img src="/main/umbrella.gif" alt="Help others!!!">
 </div>
