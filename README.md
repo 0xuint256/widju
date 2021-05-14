@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-	<img width="200%" src="https://raw.githubusercontent.com/widju/widju/main/umbrella.webp" alt="Help others!!!">
+	<!-- <img width="200%" src="https://raw.githubusercontent.com/widju/widju/main/umbrella.webp" alt="Help others!!!"> -->
 </div>
